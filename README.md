@@ -21,4 +21,4 @@ Abaixo estão os projetos disponíveis neste repositório. Você pode clicar no 
 
 Fique à vontade para explorar os códigos e me mandar feedbacks. Você pode acompanhar minha evolução na programação através da minha rede profissional:
 
-- LinkedIn: (https://www.linkedin.com/in/joaoviktornb
+- LinkedIn: https://www.linkedin.com/in/joaoviktornb
